@@ -1,4 +1,4 @@
-# coding=windows-1251
+ # coding=windows-1251
 num1 = float(input("¬ведите длину пр€моугольника: "))
 num2 = float(input("¬ведите ширину пр€моугольника: "))
 

@@ -1,7 +1,7 @@
 # coding=windows-1251
 
-pet_type = input("Р’РёРґ РїРёС‚РѕРјС†Р°: ")
-pet_age = input("Р’РѕР·СЂР°СЃС‚ РїРёС‚РѕРјС†Р°: ")
-pet_name = input("РљР»РёС‡РєР° РїРёС‚РѕРјС†Р°: ")
+pet_type = input("Вид питомца: ")
+pet_age = input("Возраст питомца: ")
+pet_name = input("Кличка питомца: ")
 
-print(f"Р­С‚Рѕ Р¶РµР»С‚РѕСЂРѕС‚С‹Р№ - {pet_type} РїРѕ РєР»РёС‡РєРµ {pet_name}, Р’РѕР·СЂР°СЃС‚: {pet_age} РіРѕРґР°.")
+print(f"Это желторотый - {pet_type} по кличке {pet_name}, Возраст: {pet_age} года.")
